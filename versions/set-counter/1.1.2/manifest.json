@@ -1,0 +1,28 @@
+{
+  "author": "Lemoncake321-dev",
+  "channel": "stable",
+  "downloadURL": "https://raw.githubusercontent.com/Lemoncake321-dev/Torn-Scripts-Releases/main/stable/set-counter.user.js",
+  "files": {
+    "README.md": {
+      "bytes": 3339,
+      "sha256": "9cac91bccefb353f4b37815c2387fa121d0d0bdc1b6e8981988f8e65784c400d"
+    },
+    "stable/set-counter.meta.js": {
+      "bytes": 611,
+      "sha256": "4209ce05ac215afaea6020cd56504f1a3205ba4856e08370815b828fe47dded1"
+    },
+    "stable/set-counter.user.js": {
+      "bytes": 15393,
+      "sha256": "73f95d0242789ae048f3cc4cebe83f669c88871e6c87495642bf7d8cece0983b"
+    },
+    "versions/set-counter/1.1.2/set-counter.user.js": {
+      "bytes": 15393,
+      "sha256": "73f95d0242789ae048f3cc4cebe83f669c88871e6c87495642bf7d8cece0983b"
+    }
+  },
+  "namespace": "https://www.torn.com/",
+  "schema": "torn-script-release/1",
+  "script": "Lemoncake Set Counter",
+  "updateURL": "https://raw.githubusercontent.com/Lemoncake321-dev/Torn-Scripts-Releases/main/stable/set-counter.meta.js",
+  "version": "1.1.2"
+}
